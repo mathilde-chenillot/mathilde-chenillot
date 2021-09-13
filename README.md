@@ -1,6 +1,6 @@
 ### Hi there, I'm Mathilde 👋
 
-# React.js Developper
+## React.js Developper
 
 - 🐶 I’m working on a dog walking web application.
 - 🐣 I’m currently learning React.js.
