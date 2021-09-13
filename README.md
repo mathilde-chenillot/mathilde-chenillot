@@ -1,16 +1,29 @@
-### Hi there 👋
+### Hi there, I'm Mathilde 👋
 
-<!--
-**mathilde-chenillot/mathilde-chenillot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# React.js Developper
 
-Here are some ideas to get you started:
+- 🐶 I’m working on a dog walking web application.
+- 🐣 I’m currently learning React.js.
+- 💌 How to reach me: mathilde.chenillot@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### For more information about me :
+
+[<img align="left" alt="linkedIn" width="22px" src="img/linkedin.svg" />][linkedin]
+
+[linkedin]: www.linkedin.com/in/mathildechenillot
+<br>
+
+### Stacks :
+<div>
+<img align="left" alt="html" width="40px" src="img/html.svg" />
+<img align="left" alt="css" width="40px" src="img/css3.svg" />
+<img align="left" alt="sass" width="40px" src="img/sass.svg" />
+<img align="left" alt="javascript" width="40px" src="img/javascript.svg" />
+<img align="left" alt="react" width="40px" src="img/react.svg" />
+<img align="left" alt="redux" width="40px" src="img/redux.svg" />
+<img align="left" alt="node" width="40px" src="img/nodejs.svg" />
+<img align="left" alt="express" width="40px" src="img/express-green.svg" />
+<img align="left" alt="postgresql" width="40px" src="img/postgresql.svg" />
+<img align="left" alt="git" width="40px" src="img/git-orange.svg" />
+<img align="left" alt="github" width="40px" src="img/github.svg" />
+</div>
