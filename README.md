@@ -2,8 +2,8 @@
 
 ## React.js Developper
 
-- 🐶 I’m working on a dog walking web application.
-- 🐣 I’m currently learning React.js.
+- 🐶 I’m doing an internship as a FullStack JS developer.
+- 🐣 I’m currently learning AdonisJS (Node framework), MySQL, ForestAdmin (back office), playwright (test), Redis.
 - 💌 How to reach me: mathilde.chenillot@gmail.com
 
 ### For more information about me :
