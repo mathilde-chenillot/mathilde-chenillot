@@ -28,4 +28,4 @@
 <img align="left" alt="github" width="40px" src="img/github.svg" />
 </div>
 
-![Mathilde's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathilde-chenillot-&show_icons=true)
+![Mathilde's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathilde-chenillot&show_icons=true)
