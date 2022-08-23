@@ -27,7 +27,7 @@
 <img align="left" alt="git" width="40px" src="img/git-orange.svg" />
 <img align="left" alt="github" width="40px" src="img/github.svg" />
 </div>
-<br>
+
+### Stats :
 ![Mathilde's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathilde-chenillot&show_icons=true&theme=radical)
-<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathilde-chenillot&layout=compact)](https://github.com/mathilde-chenillot/github-readme-stats)
