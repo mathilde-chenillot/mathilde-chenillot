@@ -3,7 +3,8 @@
 ## React.js Developper
 
 - 🐶 I’m doing an internship as a FullStack JS developer.
-- 🐣 I’m currently learning AdonisJS (Node framework), MySQL, ForestAdmin (back office), playwright (test), Redis.
+- 🌱 I work for a catering company.
+- 🐣 I’m currently using JavaScript, AdonisJS (Node framework), TypeScript, MySQL, ForestAdmin (back office), playwright (test) and Redis.
 - 💌 How to reach me: mathilde.chenillot@gmail.com
 
 ### For more information about me :
@@ -31,4 +32,4 @@
 
 ### Stats :
 ![Mathilde's GitHub stats](https://github-readme-stats.vercel.app/api?username=mathilde-chenillot&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathilde-chenillot&layout=compact)](https://github.com/mathilde-chenillot/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mathilde-chenillot&layout=compact&theme=tokyonight)](https://github.com/mathilde-chenillot/github-readme-stats)
