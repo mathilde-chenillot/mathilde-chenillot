@@ -1,6 +1,6 @@
 ### Hi there, I'm Mathilde 👋
 
-## React.js Developper
+## FullStack JS React.js / Node.js Developper
 
 - 🐶 I’m doing an internship as a FullStack JS developer.
 - 🌱 I work for a catering company.
