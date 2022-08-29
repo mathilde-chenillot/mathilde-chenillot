@@ -11,7 +11,7 @@
 
 [<img align="left" alt="linkedIn" width="22px" src="img/linkedin.svg" />][linkedin]
 
-[<img align="left" alt="linkedIn" width="22px" src="img/linkedin.svg" />](www.linkedin.com/in/mathilde-chenillot)
+["img/linkedin.svg"](www.linkedin.com/in/mathilde-chenillot)
 <br>
 
 ### Stacks :
