@@ -2,9 +2,9 @@
 
 ## FullStack JS React.js / Node.js Developper
 
-- 🐶 I’m doing an internship as a FullStack JS developer.
+- 🐣 I’m doing an internship as a FullStack JS developer.
 - 🌱 I work for a catering company.
-- 🐣 I’m currently using JavaScript, AdonisJS (Node framework), TypeScript, MySQL, SCSS, BootStrap, ForestAdmin (back office), playwright (test), Pipedrive (CRM) and Redis.
+- 🐶 I’m currently using JavaScript, AdonisJS (Node framework), TypeScript, MySQL, SCSS, BootStrap, ForestAdmin (back office), playwright (test), Pipedrive (CRM) and Redis.
 - 💌 How to reach me: mathilde.chenillot@gmail.com
 
 ### For more information about me :
