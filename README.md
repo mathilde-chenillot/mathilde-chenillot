@@ -1,10 +1,10 @@
 ### Hi there, I'm Mathilde 👋
 
-## FullStack JS React.js / Node.js Developper
+## FullStack JS Developer
 
-- 🐣 I’m doing an internship as a FullStack JS developer.
-- 🌱 I work for a catering company.
-- 🐶 I’m currently using JavaScript, AdonisJS (Node framework), TypeScript, MySQL, SCSS, Playwright (test), Pipedrive (CRM) and Redis.
+- 🌱 I'm working for a Digital IT Services.
+- 🐶 I’m currently using Angular, Ionic angular, TypeScript, flutter, C#, PSQL.
+- 🐣 I did a 6 month internship as a FullStack JS developer with Javascript Vanilla, AdonisJS (Node framework), TypeScript, MySQL, SCSS, Playwright (test), Pipedrive (CRM) and Redis.
 - 💌 How to reach me: mathilde.chenillot@gmail.com
 
 ### For more information about me :
@@ -27,6 +27,11 @@
 <img align="left" alt="postgresql" width="40px" src="img/postgresql.svg" />
 <img align="left" alt="git" width="40px" src="img/git-orange.svg" />
 <img align="left" alt="github" width="40px" src="img/github.svg" />
+  <p>Angular</p>
+  <p>Angular Ionic</p>
+  <p>Flutter</p>
+  <p>C#</p>
+  <p>TypeScript</p>
 </div>
 <br>
 
